@@ -18,8 +18,8 @@ namespace HitboxPlays
     public partial class HtbxPlays : Form
     {
         // Enter the credentials of a valid hitbox-user
-        string user_name = "WulfBot";
-        string user_pass = "1e433c57975715609c1a2866d9c1b0ff";
+        string user_name = "user";
+        string user_pass = "password";
 
         WebSocket websocket;
         KeyCommand lastcommand = new KeyCommand();
